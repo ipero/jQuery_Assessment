@@ -7,8 +7,8 @@ $(document).ready(function (){
 });
 
 function generateCont(){
-  
-  $('.container-holder').append('<div class="container-box"></div>');
+
+  $('.container-holder').append('<div class="box"></div>');
   var $el = $('.container-holder').children().last();
   $el.append('<button class="btn btn-warning">Change</button>');
   $el.append('<button class="btn btn-danger">Delete</button>');
