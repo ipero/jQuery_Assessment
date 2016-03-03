@@ -1,0 +1,12 @@
+
+.container-box{
+  width: 250px;
+  height: 75px;
+  background-color: yellow;
+  margin-bottom: 5px;
+
+}
+
+.red {
+  background-color: #911911;
+}
